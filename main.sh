@@ -8,3 +8,5 @@ set -e
 ./node.sh
 ./ohMyZsh.sh
 ./silverSearcher.sh
+./r.sh
+./compizConfig.sh
